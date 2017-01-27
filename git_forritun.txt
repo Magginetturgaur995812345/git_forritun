@@ -28,3 +28,5 @@
 	þegar þú þarft að þróa nýja eiginleika eða einigar.
 9.	Hver fann upp GIT?
 	Linus Torvalds.
+10.	Hvar er GIT helst notað?
+	oftast notað í vinnum of skrifstofum.

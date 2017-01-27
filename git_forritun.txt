@@ -6,3 +6,9 @@
 	c:ls = sýnir þér innihald möppu
 	d:pwd = segir þér hvaða möppu þú ert í
 	e:mkdir = býr til möppu
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	a: git clone = klónar innihald í nýja skrá
+	b: git log = sýnir historíið 
+	c: git status = Birtir leiðir sem hafa mismun milli vísitölu skráar og núverandi yfir geranda
+	d: git diff = Sýnir breytingar milli vinnandi tré og vísitölu tré
+	e: git checkout = Uppfærir skrár í vinnu trénu til að passa við útgáfu í vísitölu eða tiltekins tré

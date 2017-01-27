@@ -22,3 +22,5 @@
 	þú getur unnið í verkefninu sjálfur, samsetning er auðveld, verkefnið er sveigjanlegt
 6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
 	eftir hverja spurningu, til að sjá breytingar eftir hverja.
+7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+	vinnu svæði, sviðsetningar svæði og geymsla.
